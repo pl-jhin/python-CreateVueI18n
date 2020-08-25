@@ -1,5 +1,5 @@
 # coding:utf-8
-import operationFile
+from fileCommon import operationFile
 from textCommon import operationText
 import json
 import re

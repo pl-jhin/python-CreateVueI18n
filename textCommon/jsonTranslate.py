@@ -4,7 +4,7 @@ import urllib.parse
 import json
 import random
 import hashlib
-import operationFile
+from fileCommon import operationFile
 import time
 # 文件目录
 dataPath = r"/Users/penglei/PycharmProjects/CreateVuei18n/createVuei18n/js/html-label.js"
